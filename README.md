@@ -221,5 +221,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions, issues, or suggestions, feel free to reach out:
 
-- **Email**: ahmad.wali@esipick.com(mailto:ahmad.wali@esipick.com)
-- **GitHub**: ahmadwaliesipick(https://github.com/esipick)
+- **Email**: [ahmad.wali@esipick.com](mailto:ahmad.wali@esipick.com)
+- **GitHub**: [ahmadwaliesipick](https://github.com/esipick)
