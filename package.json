@@ -1,5 +1,5 @@
 {
-  "name": "laava-api-wrapper",
+  "name": "esipick-laava-api-wrapper",
   "version": "1.0.0",
   "description": "A Node.js wrapper for the Laava API",
   "main": "src/LaavaAPI.js",
